@@ -988,23 +988,5 @@
     "points_positifs": "n/a",
     "action_corrective": "n/a",
     "created_at_utc": "2025-08-29T00:00:00Z"
-  },
-  {
-    "user_id": 1395851154327343155,
-    "user_name": "terter08255",
-    "created_at_utc": "2025-10-06T19:40:38.480073Z",
-    "date": "2025-09-25",
-    "lieu": "Soukra",
-    "resultat": "250",
-    "buyin": "1500",
-    "heures": "4.5",
-    "plan_respecte": "10",
-    "tilt": "5",
-    "main_cle": "NA",
-    "erreur": "1",
-    "call_muck": "1",
-    "patience": "oui",
-    "points_positifs": "NA",
-    "action_corrective": "NA"
   }
 ]
